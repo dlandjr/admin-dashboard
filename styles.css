@@ -17,6 +17,7 @@
     box-sizing: border-box;
     padding: 0;
     color: inherit;
+    margin: 0;
 }
 
 html {
