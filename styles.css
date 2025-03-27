@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'Inter';
-    src: url('fonts/Inter-Regular.woff2') format('woff');
+    font-family: 'Roboto';
+    src: url('fonts/Roboto-Regular.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
 }
@@ -55,12 +55,12 @@ ul {
   list-style: none;
 }
 
-/* What does this code do? 
+
 hr {
   border: 0.15px solid lightgray;
   outline: none;
   margin: 20px 0;
-} */
+}
 
 /* Review max-content */
 .container {
@@ -319,7 +319,6 @@ hr {
   font-size: 2rem;
 }
 
-/* Review .buttons code */
 .buttons {
   grid-column: 2 / 3;
   display: flex;
